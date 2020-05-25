@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/menuItem3"
+        android:title="Hawaii" />
+
+    <item
+        android:id="@+id/menuItem4"
+        android:title="Venice" />
+    <item
+        android:id="@+id/menuItem5"
+        android:title="GrandCanyon" />
+
+    <item
+        android:id="@+id/menuItem6"
+        android:title="Milano" />
+
+    <item
+        android:id="@+id/menuItem7"
+        android:title="Mont Saint Michel" />
+    <item
+        android:id="@+id/menuItem8"
+        android:title="Colosseo" />
+
+    <item
+        android:id="@+id/menuItem9"
+        android:title="GaLapagos" />
+    <item
+        android:id="@+id/menuItem1"
+        android:title="Mt.Fuji" />
+    <item
+        android:id="@+id/menuItem2"
+        android:title="GunkanIsland" />
+
+</menu>
